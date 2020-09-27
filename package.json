@@ -1,0 +1,28 @@
+{
+  "name": "stars",
+  "version": "1.0.0",
+  "description": "personal website to explore my github stars",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "tg-z",
+    "email": "parasitism@protonmail.com",
+    "url": "https://github.com/tg-z"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "stars"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tg-z/stars.git"
+  },
+  "homepage": "https://github.com/tg-z/stars",
+  "bugs": {
+    "url": "https://github.com/tg-z/stars/issues"
+  }
+}
