@@ -20,7 +20,7 @@ const updateStarredList = starredList => {
           <a class="text-lg font-normal text-blue-800 hover:underline" target="_blank" href="${starred.html_url}">${starred.name}</a>
           <div class="block">
 	  <p class="text-base text-gray-600 leading-normal">${starred.description}</p>
-            <code class="inline font-hairline text-sm">${starred.language}</code>
+            <code class="inline font-hairline text-sm text-#586069-600">${starred.language}</code>
             <code class="inline font-hairline text-sm">${starred.owner.login}<code>
           </div>
         </li>`
